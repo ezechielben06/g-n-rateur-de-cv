@@ -7,7 +7,7 @@ const AuthorInfo = () => {
       <h2>À propos du créateur</h2>
       <div className="author-content">
         <img 
-          src="public/author.jpg" 
+          src="./author.jpg" 
           alt="Auteur" 
           className="author-image"
         />
